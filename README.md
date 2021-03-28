@@ -1,2 +1,2 @@
 # hyakunin
-To help memorize all cards of "Hyakunin-Isshu"
+To help memorize all cards of "Hyakunin-Isshu".
